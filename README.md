@@ -4,12 +4,12 @@ Entrega Final ramo Diseño de Interfaz con Arduino
 # Confusio
 ---
 
-[Entrega Final Arduino/WhatsApp Image 2023-06-30 at 13.30.11.jpeg] 
+![](Entrega%20Final%20Arduino/WhatsApp%20Image%202023-06-30%20at%2013.30.11.jpeg) 
 
 ---
 ---
 
-[WhatsApp Video 2023-06-30 at 13.30.04.mp4]
+![](WhatsApp%20Video 2023-06-30 at 13.30.04.mp4)
 
 Nuestro proyecto surge del profundo interés que sentimos por el desarrollo de mecanismos que aprovechen al máximo las capacidades de los sensores, elementos que brindan una amplia gama de posibilidades en la creación de productos innovadores. Ante la vasta oferta y diversidad de dispositivos electrónicos en el mercado, decidimos centrar nuestra atención en los Sensores Ultrasónicos, con el objetivo de dotar a un robot de la capacidad de movilizarse de forma autónoma.
 
@@ -98,7 +98,7 @@ En resumen, como diseñadores industriales, nuestro proyecto nace del interés p
 
 # Desarrollo del Producto 
 
-[Entrega Final Arduino/WhatsApp Image 2023-06-30 at 13.06.05 (2).jpeg]
+![](Entrega%20Final%20Arduino/WhatsApp%20Image%202023-06-30%20at%2013.06.05%20(2).jpeg)
 
 Para comenzar nuestro proyecto, nos sumergimos en una minuciosa etapa de investigación centrada en los Sensores Ultrasónicos. Durante esta fase, nos dedicamos a adquirir un profundo conocimiento sobre la amplia variedad de enfoques que podríamos adoptar al utilizar estos sensores, así como a explorar los componentes adicionales necesarios para materializar nuestras ambiciones previamente expuestas en el punto 1).
 
@@ -111,17 +111,17 @@ Al dedicarnos a un estudio exhaustivo de los Sensores Ultrasónicos, pudimos com
 
 # Circuito Eléctrico 
 
-[Entrega Final Arduino/WhatsApp Image 2023-06-30 at 15.21.32.jpeg]
-[Entrega Final Arduino/WhatsApp Image 2023-06-30 at 13.30.37.jpeg]
+![](Entrega%20Final%20Arduino/WhatsApp%20Image%202023-06-30%20at%2015.21.32.jpeg)
+![](Entrega%20Final%20Arduino/WhatsApp%20Image%202023-06-30%20at%2013.30.37.jpeg)
 ---
 
 # Imagenes 
 
-[Entrega Final Arduino/WhatsApp Image 2023-06-30 at 13.06.04 (1).jpeg]
-[Entrega Final Arduino/WhatsApp Image 2023-06-30 at 13.06.04 (2).jpeg]
-[Entrega Final Arduino/WhatsApp Image 2023-06-30 at 13.06.04 (3).jpeg]
-[Entrega Final Arduino/WhatsApp Image 2023-06-30 at 13.06.04.jpeg]
-[Entrega Final Arduino/WhatsApp Image 2023-06-30 at 13.06.05 (1).jpeg]
-[Entrega Final Arduino/WhatsApp Image 2023-06-30 at 13.30.11.jpeg]
+![](Entrega%20Final%20Arduino/WhatsApp%20Image%202023-06-30%20at%2013.06.04%20(1).jpeg)
+![](Entrega%20Final%20Arduino/WhatsApp%20Image%202023-06-30%20at%2013.06.04%20(2).jpeg)
+![](Entrega%20Final%20Arduino/WhatsApp%20Image%202023-06-30%20at%2013.06.04%20(3).jpeg)
+![](Entrega%20Final%20Arduino/WhatsApp%20Image%202023-06-30%20at%2013.06.04.jpeg)
+![](Entrega%20Final%20Arduino/WhatsApp%20Image%202023-06-30%20at%2013.06.05%20(1).jpeg)
+![](Entrega%20Final%20Arduino/WhatsApp%20Image%202023-06-30%20at%2013.30.11.jpeg)
 
 
