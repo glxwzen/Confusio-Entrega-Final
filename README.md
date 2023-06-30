@@ -4,7 +4,7 @@ Entrega Final ramo Diseño de Interfaz con Arduino
 # Confusio
 ---
 
-
+(Entrega Final Arduino/WhatsApp Image 2023-06-30 at 13.30.11.jpeg)
 
 Nuestro proyecto surge del profundo interés que sentimos por el desarrollo de mecanismos que aprovechen al máximo las capacidades de los sensores, elementos que brindan una amplia gama de posibilidades en la creación de productos innovadores. Ante la vasta oferta y diversidad de dispositivos electrónicos en el mercado, decidimos centrar nuestra atención en los Sensores Ultrasónicos, con el objetivo de dotar a un robot de la capacidad de movilizarse de forma autónoma.
 
