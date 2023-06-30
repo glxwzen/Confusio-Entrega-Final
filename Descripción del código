@@ -1,0 +1,22 @@
+Declaración de variables de pines:
+
+En esta sección se declaran las variables que almacenan los números de pin utilizados para diferentes componentes, como el módulo de ultrasonido, el servo motor, el control de motores y los LEDs.
+Enumeración de motores:
+
+Esta sección define una enumeración llamada "Motor" con dos valores posibles: LEFT y RIGHT. Se utiliza para identificar y controlar los motores izquierdo y derecho.
+Función de control de motores:
+
+La función "go" se encarga de controlar la dirección y velocidad de los motores. Recibe como parámetros el motor a controlar (LEFT o RIGHT) y la velocidad deseada.
+Función de prueba inicial de los motores:
+
+La función "testMotors" realiza una prueba inicial de los motores, moviéndolos hacia adelante y hacia atrás en diferentes velocidades. Se utiliza para verificar su funcionamiento.
+Funciones de lectura de distancia utilizando el sensor ultrasónico:
+
+La función "readDistance" lee la distancia desde el sensor ultrasónico y la devuelve en milímetros.
+La función "readNextDistance" realiza un escaneo del área circundante al mover el sensor ultrasónico de izquierda a derecha y registra la distancia observada en cada posición.
+Configuración inicial del programa:
+
+La función "setup" se ejecuta una vez al inicio del programa y se encarga de configurar los pines utilizados, inicializar el servo motor, realizar una prueba inicial de los motores y realizar una lectura inicial de la distancia en diferentes posiciones del sensor.
+Bucle principal:
+
+La función "loop" se ejecuta de forma continua y se encarga de realizar la detección de obstáculos y controlar los LEDs y los motores en función de la distancia medida. Si un obstáculo está demasiado cerca, se enciende el LED rojo, se apaga el LED verde, se activa el buzzer y se ajusta la velocidad de los motores. Si no hay obstáculos cercanos, se apaga el LED rojo, se enciende el LED verde y se establece la velocidad máxima en los motores.
