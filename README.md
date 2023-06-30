@@ -6,6 +6,11 @@ Entrega Final ramo Diseño de Interfaz con Arduino
 
 [Entrega Final Arduino/WhatsApp Image 2023-06-30 at 13.30.11.jpeg] 
 
+---
+---
+
+[WhatsApp Video 2023-06-30 at 13.30.04.mp4]
+
 Nuestro proyecto surge del profundo interés que sentimos por el desarrollo de mecanismos que aprovechen al máximo las capacidades de los sensores, elementos que brindan una amplia gama de posibilidades en la creación de productos innovadores. Ante la vasta oferta y diversidad de dispositivos electrónicos en el mercado, decidimos centrar nuestra atención en los Sensores Ultrasónicos, con el objetivo de dotar a un robot de la capacidad de movilizarse de forma autónoma.
 
 Conscientes de que evitar colisiones es fundamental en la navegación autónoma, nuestro enfoque principal fue dotar al robot con la capacidad de detectar objetos y actuar en consecuencia. Para lograr esto, diseñamos un sistema que, al detectar la proximidad de un obstáculo, activa el frenado del robot, lo hace retroceder y luego redirige su curso, evitando así cualquier colisión potencial.
@@ -88,3 +93,35 @@ En resumen, como diseñadores industriales, nuestro proyecto nace del interés p
 
 - Cinta bifaz (1)
   - Pegado de placas y Servo
+
+---
+
+# Desarrollo del Producto 
+
+[Entrega Final Arduino/WhatsApp Image 2023-06-30 at 13.06.05 (2).jpeg]
+
+Para comenzar nuestro proyecto, nos sumergimos en una minuciosa etapa de investigación centrada en los Sensores Ultrasónicos. Durante esta fase, nos dedicamos a adquirir un profundo conocimiento sobre la amplia variedad de enfoques que podríamos adoptar al utilizar estos sensores, así como a explorar los componentes adicionales necesarios para materializar nuestras ambiciones previamente expuestas en el punto 1).
+
+Esta inmersión en la investigación nos condujo a la búsqueda de elementos que, si bien eran relativamente nuevos para nosotros, nos resultaron sumamente interesantes debido a la manera en que expanden nuestro horizonte en términos de programación y nos brindan nuevas oportunidades para proponer soluciones innovadoras. Al mismo tiempo, nos sentimos atraídos por su capacidad para despertar nuestra curiosidad y abrirnos a nuevas posibilidades.
+
+Al dedicarnos a un estudio exhaustivo de los Sensores Ultrasónicos, pudimos comprender plenamente su funcionamiento y las diversas aplicaciones que podrían surgir a partir de ellos. Además, esta investigación nos permitió identificar los componentes complementarios necesarios para llevar a cabo nuestras ideas y explorar cómo integrarlas de manera efectiva en nuestro proyecto.
+
+
+---
+
+# Circuito Eléctrico 
+
+[Entrega Final Arduino/WhatsApp Image 2023-06-30 at 15.21.32.jpeg]
+[Entrega Final Arduino/WhatsApp Image 2023-06-30 at 13.30.37.jpeg]
+---
+
+# Imagenes 
+
+[Entrega Final Arduino/WhatsApp Image 2023-06-30 at 13.06.04 (1).jpeg]
+[Entrega Final Arduino/WhatsApp Image 2023-06-30 at 13.06.04 (2).jpeg]
+[Entrega Final Arduino/WhatsApp Image 2023-06-30 at 13.06.04 (3).jpeg]
+[Entrega Final Arduino/WhatsApp Image 2023-06-30 at 13.06.04.jpeg]
+[Entrega Final Arduino/WhatsApp Image 2023-06-30 at 13.06.05 (1).jpeg]
+[Entrega Final Arduino/WhatsApp Image 2023-06-30 at 13.30.11.jpeg]
+
+
